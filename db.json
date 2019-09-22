@@ -1,25 +1,14 @@
+    {
+        "appointments":[
+        {
+            "id":0,
+            "name": "work on something",
+            "desc": "desc",
+            "dueDate": "9/22/2019",
+            "isFinished": "false"
+        
 
+        }
+        ]
+         }
 
-[
-  {
-    "index":0,
-    "name": "work on something",
-    "desc": "desc",
-    "dueDate": "9/24/2019",
-    "isFinished": "false"
-  },
-  {
-    "index":1,
-    "name": "work on sasdomething",
-    "desc": "desc",
-    "dueDate": "9/22/2019",
-    "isFinished": "false"
-  },
-   {
-    "index":2,
-    "name": "work osadasdn something",
-    "desc": "desc",
-    "dueDate": "9/23/2019",
-    "isFinished": "false"
-  }
-]
